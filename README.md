@@ -4,6 +4,12 @@ For many years, players all across the world have cherished the iconic video gam
 
 ![](.README_images/ce3a7aee.png)
 
+### Setup
+
+1.Clone this repo
+```commandline
+git clone https://github.com/zmohamed1905/Snake.git
+```
 
 
 
@@ -20,4 +26,3 @@ For many years, players all across the world have cherished the iconic video gam
 - Turtle graphics is an implementation of the popular geometric drawing tools introduced in Logo, developed by Wally Feurzeig, Seymour Papert and Cynthia Solomon in 1967.
 - In Python, turtle graphics provides a representation of a physical “turtle” (a little robot with a pen) that draws on a sheet of paper on the floor.
 - The use of turtle graphics allowed for the production of the graphical output of the Snake in the game without having to use other more complex libraries to achieve the desired output.
-
